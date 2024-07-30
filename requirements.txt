@@ -1,1 +1,1 @@
-yt_dlp
+pytube
